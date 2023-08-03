@@ -1,0 +1,1 @@
+rating is related to the pointer aspect of the entity which is utilised for usage.
